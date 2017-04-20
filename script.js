@@ -1,5 +1,27 @@
 const model = {
-
+    "firstNames" : [
+        "Gert",
+        "Larisa",
+        "Usain",
+        "Paavo",
+        "Aladar",
+        "Alan",
+        "Sir Steve",
+        "Carl",
+        "Michael",
+        "Ray" 
+    ],
+    "lastNames" : [
+        "Fredriksson",
+        "Latynina",
+        "Bolt", "Nurmi",
+        "Gerevich",
+        "Redgrave",
+        "Fischer",
+        "Lewis",
+        "Phelps",
+        "Ewry"
+    ]
 }
 
 const operator = {
